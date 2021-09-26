@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17c1d259-8845-4c78-a3be-0666e1cc7d67" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/principle.openclose/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principle.openclose/src/main/java/com/design/principle/dependencyinversion/DipTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principle.openclose/src/main/java/com/design/principle/dependencyinversion/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principle.openclose/src/main/java/com/design/principle/dependencyinversion/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principle.openclose/src/main/java/com/design/principle/dependencyinversion/PythonCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principle.openclose/src/main/java/com/design/principle/dependencyinversion/Tom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principle.openclose/src/main/java/com/design/principle/openclose/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principle.openclose/src/main/java/com/design/principle/openclose/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principle.openclose/src/main/java/com/design/principle/openclose/JavaDiscountCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principle.openclose/src/main/java/com/design/principle/openclose/OpenCloseTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="17c1d259-8845-4c78-a3be-0666e1cc7d67" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
